@@ -1,0 +1,16 @@
+Регистры 
+rax 
+rdi, rsi 
+rcx 
+rdx 
+rsp 
+rbp 
+
+инструкции
+mov — перенос
+add / sub
+inc / dec
+cmp 
+jmp 
+je / jne / jg / jl 
+
